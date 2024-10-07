@@ -12,5 +12,5 @@ en attente avec le fetch origin, et si c'est bon alors dans ce cas vous faites u
 Pour être sûr de pas avoir de problèmes c'est toujours mieux de prévenir sur discord quand vous bossez dessus histoire qu'on fasse pas la même chose en même temps.
 
 Enfin pour lancer le notebook vous devez juste ouvrir ce répertoire une fois cloné sur votre ordi (en faisant show in explorer depuis github desktop), ouvrir un terminal depuis cette fenêtre et taper la commande 
-"jupyter notebook '.\Hackathon 1.ipnyb'"
+"jupyter notebook '.\Hackathon 1.ipnyb'". Pour fermer le serveur vous faites juste un Ctrl+C depuis le terminal ouvert.
 
