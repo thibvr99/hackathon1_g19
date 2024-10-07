@@ -14,3 +14,16 @@ Pour être sûr de pas avoir de problèmes c'est toujours mieux de prévenir sur
 Enfin pour lancer le notebook vous devez juste ouvrir ce répertoire une fois cloné sur votre ordi (en faisant show in explorer depuis github desktop), ouvrir un terminal depuis cette fenêtre et taper la commande 
 "jupyter notebook '.\Hackathon 1.ipnyb'". Pour fermer le serveur vous faites juste un Ctrl+C depuis le terminal ouvert.
 
+## Sans Github Desktop
+
+```sh
+git clone https://github.com/thibvr99/hackaton1_g19
+```
+
+## Autres options pour lire les notebooks
+
+- Jupyter notebook
+- JupyterLab
+- Extension VScode
+- Anaconda (pas sur mais il me semble que cest possible)
+- Autres ?
